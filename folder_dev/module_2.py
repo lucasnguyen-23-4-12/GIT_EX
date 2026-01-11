@@ -1,0 +1,1 @@
+print("tinh nang module 2")
